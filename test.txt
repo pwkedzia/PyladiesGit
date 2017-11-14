@@ -1,5 +1,1 @@
 Kocham Gra¿ynê ;)
-
-ls- lista katalogów i folderów w bie¿¹cej œcie¿ce
-
-commit- opis+ ¿eby zamkn¹æ wciskamy Esc a póŸniej :w, ¿eby opuœciæ edytor Esc, a póŸniej :q
